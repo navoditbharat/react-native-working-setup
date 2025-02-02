@@ -5,7 +5,7 @@
  * @format
  */
 
-import React from 'react';
+import React, {useEffect} from 'react';
 import type {PropsWithChildren} from 'react';
 import {
   SafeAreaView,
@@ -24,6 +24,7 @@ import {
   LearnMoreLinks,
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
+import {requestCameraPermission} from './utils/utils';
 
 type SectionProps = PropsWithChildren<{
   title: string;
@@ -55,12 +56,16 @@ function Section({children, title}: SectionProps): React.JSX.Element {
   );
 }
 
-function App(): React.JSX.Element {
+const App = () => {
   const isDarkMode = useColorScheme() === 'dark';
 
   const backgroundStyle = {
     backgroundColor: isDarkMode ? Colors.darker : Colors.lighter,
   };
+
+  useEffect(() => {
+    requestCameraPermission();
+  }, []);
 
   return (
     <SafeAreaView style={backgroundStyle}>
@@ -78,7 +83,7 @@ function App(): React.JSX.Element {
           }}>
           <Section title="Step One">
             Edit <Text style={styles.highlight}>App.tsx</Text> to change this
-            screen. This is sooooo working.
+            screen. This is sooooo working
           </Section>
           <Section title="See Your Changes">
             <ReloadInstructions />
@@ -94,7 +99,7 @@ function App(): React.JSX.Element {
       </ScrollView>
     </SafeAreaView>
   );
-}
+};
 
 const styles = StyleSheet.create({
   sectionContainer: {
