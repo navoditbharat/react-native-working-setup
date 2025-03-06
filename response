@@ -1,0 +1,151 @@
+{
+  "id": 662f2d91d156cd001e102f1f,
+  "email": "navodit.b@samsung.com"
+  "components": "["_","1111","12345678901234567890123456789012345678901234567890","12889","2686_COMP3","2686_TEST1","2686_TEST2","4725_FPT1","4725_FPT2","4725_FPT3","4774_FPT_1","4774_FPT_2","4774_FPT_3","A1B1","A1B1C1","A1B2","ABC","ABC1","ABCD","ABCD1","A_B_C_D_E_F_G_H_1_2_3_4_5_6_7_8_","ABCD_NEW","ABC_NEW","ALARM_ESCALATION_TEST","ALMANSY","ARGUS","BFGKSJDB____","BLUEHALL_SRID","BLUEHALL_SRID_2","BLUEHALL_TEST","CANARY_DEMO","CAT","CN_2686_COMP4","CN_4774_FPT_4","CN_A1B1","CN_A2B2","CN_A3B3","CN_A4B4","CN_ABC","CN_ABCDEF","CN_CPM","CN_FPT1211","CN_IAM","CN_SRID_INDIA_9989","CN_SRID_INFRA","CN_SRID_IOP","CN_TEST112","CN_TEST123","CN_TEST1234","CN_TEST12342","CN_TEST_COMPONENT","COMP01","COMPONENT1","COMPONENT112","COMPONENT3","COMPONENTT","D","DAHHSDF","DBAS","DEMO3","DEMO5","DEMO6","DEMO7","DEMO8","DEMO_COMP","DEVOPS","DEVOPS_TEST","DEVOPS_TEST_NEW_MODEL","DPAM","D_T","FPT","FPT13112","FPT3010","FPT30102","FPT3011","FPT_432535534","FPT_8888","FPT_8889","FPT_NEW_COMPONENT_15","FPT_NEWCOMPONENT_16","FPT_TEST","FPT_TEST0001","FPT_TEST0002","FPT_TEST_01","FPT_TEST_02","FPT_TEST10","FPT_TEST11","FPT_TEST123321","FPT_TEST1234","FPT_TEST_124424","FPT_TEST2","FPT_TEST2343444","FPT_TEST_23748932","FPT_TEST_4242_1","FPT_TEST_4242_2","FPT_TEST_4242_3","FPT_TEST_4242_5","FPT_TEST_4242_USERROLE","FPT_TEST567","FPT_TEST_56784","FPT_TEST_COMP_01","FPT_TEST_COMP1","FPT_TEST_COMP342423","FPT_TEST_COMP_4242_11","FPT_TEST_COMP_4242_12","FPT_TEST_NEWCOMP2353","FPT_TEST_NEWCOMP3232","HAPPY_PLUS","HCM_TEST","HELLO","HELLO1","IAM","INFRAMANAGEMENT","INFRAOPS","INFRA_TEST","KEYTEST_D","LIFECYCLE_TEST","LIFECYCLE_TEST_123","NOTICE","OPSPORTAL","OPSPORTAL_DEMO","OPSPORTAL_FPTTEST","OPSPORTAL_FPTTEST2","OPSPORTAL_FPTTEST3","OPSPORTAL_FPTTEST4","OPSPORTAL_FPTTEST5","OPSPORTAL_FPTTEST6","OPSPORTAL_FPTTEST7","OPSPORTAL_INDIA","OPSPORTAL_SRID","OPSPORTAL_TEST","OPSPORTAL_TEST_1","OPSPORTAL_TEST2","OPS_TEST","OPS_TEST1","OPSTESTT","OSB","OTN","PR_COMPONENT1","QA","QA_SRID_1","QATESTCOMPONENT","RMS","RMS_OPSP_SYNC_TEST1","RMS_OPSP_SYNC_TEST12","RMS_OPSP_SYNC_TEST2","RMS_OPSP_SYNC_TEST3","RMS_OPSP_SYNC_TEST4","RMS_OPSP_SYNC_TEST5","RMS_OPSP_SYNC_TEST6","RMS_OPSP_SYNC_TEST7","RMS_OPSP_SYNC_TEST8","SAPPHIRE","SDFKJJF","SDFLSADKFLSLAKSLAKVLSJAVLKASLFKJSALDFKJASJKLLKJDLG","SERVICE_RELEASE_TEST","SOH","SRID_DELHI_111","SRID_DELHI_12","SRID_DELHI_16789","SRID_DELHI_1888","SRID_INDIA_1","SRID_INDIA_10","SRID_INDIA_11","SRID_INDIA_2","SRID_INDIA_23","SRID_INDIA_25","SRID_INDIA_3","SRID_INDIA_4","SRID_INDIA_5","SRID_INDIA_6","SRID_INDIA_7","SRID_INDIA8","SRID_INDIA_8","SRID_INDIA_9","SRID_QA","SRID_QA_DUPLICATE","SRID_TV_PLUS","SSDFSDFSFSFSDFSFASFDSAFKNSSDFSDFSFSFSDFSFASFDSAFK1","SSDFSDFSFSFSDFSFASFDSAFKNSSDFSDFSFSFSDFSFASFDSAFKN","SYNCER_DUMMY","SYNCER_ENV_UPGRADE_TEST","SYNCER_LAMBDA_TEST","SYNCER_PYTHON_UPGRADE_TEST","SYNCER_REN","SYNCER_TEST","SYNCER_TEST_OLD","SYNCER_TEST_REN_CATALOG","SYNC_TEST","T9E9S9T9991","TATATATATATA","TEMP_TEST","TESSTRMS2","TEST","TEST002TEST002TEST002","TEST01","TEST02","TEST1","TEST100","TEST1111","TEST1133","TEST12","TEST123","TEST_12345","TEST19","TEST21","TEST2111","TEST23","TEST2345","TEST_246","TEST_25","TEST_26_01","TEST264","TEST27","TEST29","TEST_29","TEST31","TEST_4","TEST_47","TEST_49","TEST5","TEST51","TEST61","TEST67","TEST71","TEST72","TEST_786","TEST81","TEST811","TEST82","TEST83","TEST84","TEST85","TEST91","TEST98","TEST999","TEST_ABC","TEST_ABC_123","TEST_ABCDDD","TEST_ABCDE","TESTATTRIBUTE_NOTASSOCIATED","TEST_BIP","TEST_BIP1","TEST_BIP3","TEST_BK1","TEST_BK2","TEST_BK3","TEST_BK4","TEST_BK6","TESTCC","TEST_CMP_01","TEST_COM","TEST_COMP_01","TEST_COMP123","TEST_COMP23","TESTCOMPO","TESTCOMPONENT","TEST_COMPONENT","TESTCOMPONENT_OPS1","TEST_DEMO","TEST_DEVICE_NOT_RELATED","TEST_FPT_1243","TESTING","TEST_NEW","TEST_NEW_COMP_","TEST_NEW_COMP_1","TEST_NEW_COMP_2","TEST_NEW_COMP_3","TEST_NEW_COMP_39","TEST_NEW_COMP_3_DUPLICATE_1","TEST_NEW_COMP_3_DUPLICATE_2","TEST_NEW_COMP_4","TEST_NEW_COMP_5","TEST_NEW_COMP_6","TEST_NEW_COMP_7","TEST_NEW_COMP723483249","TEST_NEW_COMPONENT","TEST_NEWPERMISSIONS_RMS","TEST_PP","TEST_RBAC","TESTRECOMMEND","TESTRMS","TEST_RMS","TESTRMS1","TEST_RMS1","TEST_RMS2","TESTRMS3","TEST_RMS3","TESTRMS4","TEST_RMS4","TESTRMS5","TESTRMS6","TESTRMS_OPSSYNC1","TEST_SERVICE","TESTSRI","TESTSRID","TEST_SRID","TESTSRID123","TEST_SRID_22","TEST_SRID_23","TESTTSTET","TEST_USER","TESTUX","TETESTST1","TOKEN_TEST_123","T_T","TTT","TTTTTSSDFSDFSFSFSQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ","TTTTTTTTTT","TVPLUSSSSSSS","TVPLUSTEST","UCA","UCA2_CHANGE","UCA3","UCA5","UCA_DEV_TEST","UCA_ISB_TEST_7","UCA_TEST1","UCA_TEST2","UCA_TEST3","UCA_TEST_DEV_","YASHWANTH_TEST"]"
+  "isAdmin": "true"
+  "isResolver": "true"
+  "name": "Navodit Bharat"
+  "phoneNumber": "+919057071210"
+  "notiConfig": ""
+  "token": ""
+} this is response.data, typeof response.data is string
+
+{
+    "data": "{\r\n  \"id\": 662f2d91d156cd001e102f1f,\r\n  \"email\": \"navodit.b@samsung.com\"\r\n  \"components\": \"[\"_\",\"1111\",\"12345678901234567890123456789012345678901234567890\",\"12889\",\"2686_COMP3\",\"2686_TEST1\",\"2686_TEST2\",\"4725_FPT1\",\"4725_FPT2\",\"4725_FPT3\",\"4774_FPT_1\",\"4774_FPT_2\",\"4774_FPT_3\",\"A1B1\",\"A1B1C1\",\"A1B2\",\"ABC\",\"ABC1\",\"ABCD\",\"ABCD1\",\"A_B_C_D_E_F_G_H_1_2_3_4_5_6_7_8_\",\"ABCD_NEW\",\"ABC_NEW\",\"ALARM_ESCALATION_TEST\",\"ALMANSY\",\"ARGUS\",\"BFGKSJDB____\",\"BLUEHALL_SRID\",\"BLUEHALL_SRID_2\",\"BLUEHALL_TEST\",\"CANARY_DEMO\",\"CAT\",\"CN_2686_COMP4\",\"CN_4774_FPT_4\",\"CN_A1B1\",\"CN_A2B2\",\"CN_A3B3\",\"CN_A4B4\",\"CN_ABC\",\"CN_ABCDEF\",\"CN_CPM\",\"CN_FPT1211\",\"CN_IAM\",\"CN_SRID_INDIA_9989\",\"CN_SRID_INFRA\",\"CN_SRID_IOP\",\"CN_TEST112\",\"CN_TEST123\",\"CN_TEST1234\",\"CN_TEST12342\",\"CN_TEST_COMPONENT\",\"COMP01\",\"COMPONENT1\",\"COMPONENT112\",\"COMPONENT3\",\"COMPONENTT\",\"D\",\"DAHHSDF\",\"DBAS\",\"DEMO3\",\"DEMO5\",\"DEMO6\",\"DEMO7\",\"DEMO8\",\"DEMO_COMP\",\"DEVOPS\",\"DEVOPS_TEST\",\"DEVOPS_TEST_NEW_MODEL\",\"DPAM\",\"D_T\",\"FPT\",\"FPT13112\",\"FPT3010\",\"FPT30102\",\"FPT3011\",\"FPT_432535534\",\"FPT_8888\",\"FPT_8889\",\"FPT_NEW_COMPONENT_15\",\"FPT_NEWCOMPONENT_16\",\"FPT_TEST\",\"FPT_TEST0001\",\"FPT_TEST0002\",\"FPT_TEST_01\",\"FPT_TEST_02\",\"FPT_TEST10\",\"FPT_TEST11\",\"FPT_TEST123321\",\"FPT_TEST1234\",\"FPT_TEST_124424\",\"FPT_TEST2\",\"FPT_TEST2343444\",\"FPT_TEST_23748932\",\"FPT_TEST_4242_1\",\"FPT_TEST_4242_2\",\"FPT_TEST_4242_3\",\"FPT_TEST_4242_5\",\"FPT_TEST_4242_USERROLE\",\"FPT_TEST567\",\"FPT_TEST_56784\",\"FPT_TEST_COMP_01\",\"FPT_TEST_COMP1\",\"FPT_TEST_COMP342423\",\"FPT_TEST_COMP_4242_11\",\"FPT_TEST_COMP_4242_12\",\"FPT_TEST_NEWCOMP2353\",\"FPT_TEST_NEWCOMP3232\",\"HAPPY_PLUS\",\"HCM_TEST\",\"HELLO\",\"HELLO1\",\"IAM\",\"INFRAMANAGEMENT\",\"INFRAOPS\",\"INFRA_TEST\",\"KEYTEST_D\",\"LIFECYCLE_TEST\",\"LIFECYCLE_TEST_123\",\"NOTICE\",\"OPSPORTAL\",\"OPSPORTAL_DEMO\",\"OPSPORTAL_FPTTEST\",\"OPSPORTAL_FPTTEST2\",\"OPSPORTAL_FPTTEST3\",\"OPSPORTAL_FPTTEST4\",\"OPSPORTAL_FPTTEST5\",\"OPSPORTAL_FPTTEST6\",\"OPSPORTAL_FPTTEST7\",\"OPSPORTAL_INDIA\",\"OPSPORTAL_SRID\",\"OPSPORTAL_TEST\",\"OPSPORTAL_TEST_1\",\"OPSPORTAL_TEST2\",\"OPS_TEST\",\"OPS_TEST1\",\"OPSTESTT\",\"OSB\",\"OTN\",\"PR_COMPONENT1\",\"QA\",\"QA_SRID_1\",\"QATESTCOMPONENT\",\"RMS\",\"RMS_OPSP_SYNC_TEST1\",\"RMS_OPSP_SYNC_TEST12\",\"RMS_OPSP_SYNC_TEST2\",\"RMS_OPSP_SYNC_TEST3\",\"RMS_OPSP_SYNC_TEST4\",\"RMS_OPSP_SYNC_TEST5\",\"RMS_OPSP_SYNC_TEST6\",\"RMS_OPSP_SYNC_TEST7\",\"RMS_OPSP_SYNC_TEST8\",\"SAPPHIRE\",\"SDFKJJF\",\"SDFLSADKFLSLAKSLAKVLSJAVLKASLFKJSALDFKJASJKLLKJDLG\",\"SERVICE_RELEASE_TEST\",\"SOH\",\"SRID_DELHI_111\",\"SRID_DELHI_12\",\"SRID_DELHI_16789\",\"SRID_DELHI_1888\",\"SRID_INDIA_1\",\"SRID_INDIA_10\",\"SRID_INDIA_11\",\"SRID_INDIA_2\",\"SRID_INDIA_23\",\"SRID_INDIA_25\",\"SRID_INDIA_3\",\"SRID_INDIA_4\",\"SRID_INDIA_5\",\"SRID_INDIA_6\",\"SRID_INDIA_7\",\"SRID_INDIA8\",\"SRID_INDIA_8\",\"SRID_INDIA_9\",\"SRID_QA\",\"SRID_QA_DUPLICATE\",\"SRID_TV_PLUS\",\"SSDFSDFSFSFSDFSFASFDSAFKNSSDFSDFSFSFSDFSFASFDSAFK1\",\"SSDFSDFSFSFSDFSFASFDSAFKNSSDFSDFSFSFSDFSFASFDSAFKN\",\"SYNCER_DUMMY\",\"SYNCER_ENV_UPGRADE_TEST\",\"SYNCER_LAMBDA_TEST\",\"SYNCER_PYTHON_UPGRADE_TEST\",\"SYNCER_REN\",\"SYNCER_TEST\",\"SYNCER_TEST_OLD\",\"SYNCER_TEST_REN_CATALOG\",\"SYNC_TEST\",\"T9E9S9T9991\",\"TATATATATATA\",\"TEMP_TEST\",\"TESSTRMS2\",\"TEST\",\"TEST002TEST002TEST002\",\"TEST01\",\"TEST02\",\"TEST1\",\"TEST100\",\"TEST1111\",\"TEST1133\",\"TEST12\",\"TEST123\",\"TEST_12345\",\"TEST19\",\"TEST21\",\"TEST2111\",\"TEST23\",\"TEST2345\",\"TEST_246\",\"TEST_25\",\"TEST_26_01\",\"TEST264\",\"TEST27\",\"TEST29\",\"TEST_29\",\"TEST31\",\"TEST_4\",\"TEST_47\",\"TEST_49\",\"TEST5\",\"TEST51\",\"TEST61\",\"TEST67\",\"TEST71\",\"TEST72\",\"TEST_786\",\"TEST81\",\"TEST811\",\"TEST82\",\"TEST83\",\"TEST84\",\"TEST85\",\"TEST91\",\"TEST98\",\"TEST999\",\"TEST_ABC\",\"TEST_ABC_123\",\"TEST_ABCDDD\",\"TEST_ABCDE\",\"TESTATTRIBUTE_NOTASSOCIATED\",\"TEST_BIP\",\"TEST_BIP1\",\"TEST_BIP3\",\"TEST_BK1\",\"TEST_BK2\",\"TEST_BK3\",\"TEST_BK4\",\"TEST_BK6\",\"TESTCC\",\"TEST_CMP_01\",\"TEST_COM\",\"TEST_COMP_01\",\"TEST_COMP123\",\"TEST_COMP23\",\"TESTCOMPO\",\"TESTCOMPONENT\",\"TEST_COMPONENT\",\"TESTCOMPONENT_OPS1\",\"TEST_DEMO\",\"TEST_DEVICE_NOT_RELATED\",\"TEST_FPT_1243\",\"TESTING\",\"TEST_NEW\",\"TEST_NEW_COMP_\",\"TEST_NEW_COMP_1\",\"TEST_NEW_COMP_2\",\"TEST_NEW_COMP_3\",\"TEST_NEW_COMP_39\",\"TEST_NEW_COMP_3_DUPLICATE_1\",\"TEST_NEW_COMP_3_DUPLICATE_2\",\"TEST_NEW_COMP_4\",\"TEST_NEW_COMP_5\",\"TEST_NEW_COMP_6\",\"TEST_NEW_COMP_7\",\"TEST_NEW_COMP723483249\",\"TEST_NEW_COMPONENT\",\"TEST_NEWPERMISSIONS_RMS\",\"TEST_PP\",\"TEST_RBAC\",\"TESTRECOMMEND\",\"TESTRMS\",\"TEST_RMS\",\"TESTRMS1\",\"TEST_RMS1\",\"TEST_RMS2\",\"TESTRMS3\",\"TEST_RMS3\",\"TESTRMS4\",\"TEST_RMS4\",\"TESTRMS5\",\"TESTRMS6\",\"TESTRMS_OPSSYNC1\",\"TEST_SERVICE\",\"TESTSRI\",\"TESTSRID\",\"TEST_SRID\",\"TESTSRID123\",\"TEST_SRID_22\",\"TEST_SRID_23\",\"TESTTSTET\",\"TEST_USER\",\"TESTUX\",\"TETESTST1\",\"TOKEN_TEST_123\",\"T_T\",\"TTT\",\"TTTTTSSDFSDFSFSFSQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ\",\"TTTTTTTTTT\",\"TVPLUSSSSSSS\",\"TVPLUSTEST\",\"UCA\",\"UCA2_CHANGE\",\"UCA3\",\"UCA5\",\"UCA_DEV_TEST\",\"UCA_ISB_TEST_7\",\"UCA_TEST1\",\"UCA_TEST2\",\"UCA_TEST3\",\"UCA_TEST_DEV_\",\"YASHWANTH_TEST\"]\"\r\n  \"isAdmin\": \"true\"\r\n  \"isResolver\": \"true\"\r\n  \"name\": \"Navodit Bharat\"\r\n  \"phoneNumber\": \"+919057071210\"\r\n  \"notiConfig\": \"\"\r\n  \"token\": \"\"\r\n}",
+    "status": 200,
+    "headers": {
+        "access-control-allow-headers": "Content-Type,X-Amz-Date,Authorization,X-Api-Key,X-Amz-Security-Token,access-control-allow-origin,almansy-token",
+        "access-control-allow-methods": "DELETE,GET,HEAD,OPTIONS,PATCH,POST,PUT",
+        "access-control-allow-origin": "*",
+        "access-control-expose-headers": "almansy-token",
+        "almansy-token": "connect.sid=s%sddfdfdfdf; Path=/; Expires=Fri, 07 Mar 2025 06:46:48 GMT; HttpOnly; Secure",
+        "content-length": "4877",
+        "content-type": "application/json",
+        "date": "Thu, 06 Mar 2025 06:46:48 GMT",
+        "set-cookie": "connect.sid=s%sdsdsds; Path=/; Expires=Fri, 07 Mar 2025 06:46:48 GMT; HttpOnly; Secure",
+        "x-amz-apigw-id": "G_ex5Fm4oAMEaaA=",
+        "x-amzn-requestid": "b53212ea-9300-431b-9293-c5732e7ddae5",
+        "x-amzn-trace-id": "Root=1-67c944d8-5b28246e69bdb4f8732f4eaa"
+    },
+    "config": {
+        "transitional": {
+            "silentJSONParsing": true,
+            "forcedJSONParsing": true,
+            "clarifyTimeoutError": false
+        },
+        "adapter": [
+            "xhr",
+            "http",
+            "fetch"
+        ],
+        "transformRequest": [
+            null
+        ],
+        "transformResponse": [
+            null
+        ],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json",
+            "x-api-key": "dfdfdfdfdfdfdfdfdfdfdfdfdffd",
+            "Access-Control-Allow-Origin": "true"
+        },
+        "responseType": "json",
+        "method": "post",
+        "url": "https://almansydevapi.samsungcloud.tv/api/v1/users/vdmon/signin",
+        "data": "{\"email\":\"navodit.b@samsung.com\",\"otp\":\"1785006693\",\"forcedUpdate\":true,\"token\":\"abcd\",\"almansyLiteVersion\":\"2.1.1\"}",
+        "allowAbsoluteUrls": true
+    },
+    "request": {
+        "UNSENT": 0,
+        "OPENED": 1,
+        "HEADERS_RECEIVED": 2,
+        "LOADING": 3,
+        "DONE": 4,
+        "readyState": 4,
+        "status": 200,
+        "timeout": 0,
+        "withCredentials": true,
+        "upload": {},
+        "_aborted": false,
+        "_hasError": false,
+        "_method": "POST",
+        "_perfKey": "network_XMLHttpRequest_https://almansydevapi.samsungcloud.tv/api/v1/users/vdmon/signin",
+        "_response": "{\r\n  \"id\": 662f2d91d156cd001e102f1f,\r\n  \"email\": \"navodit.b@samsung.com\"\r\n  \"components\": \"[\"_\",\"1111\",\"12345678901234567890123456789012345678901234567890\",\"12889\",\"2686_COMP3\",\"2686_TEST1\",\"2686_TEST2\",\"4725_FPT1\",\"4725_FPT2\",\"4725_FPT3\",\"4774_FPT_1\",\"4774_FPT_2\",\"4774_FPT_3\",\"A1B1\",\"A1B1C1\",\"A1B2\",\"ABC\",\"ABC1\",\"ABCD\",\"ABCD1\",\"A_B_C_D_E_F_G_H_1_2_3_4_5_6_7_8_\",\"ABCD_NEW\",\"ABC_NEW\",\"ALARM_ESCALATION_TEST\",\"ALMANSY\",\"ARGUS\",\"BFGKSJDB____\",\"BLUEHALL_SRID\",\"BLUEHALL_SRID_2\",\"BLUEHALL_TEST\",\"CANARY_DEMO\",\"CAT\",\"CN_2686_COMP4\",\"CN_4774_FPT_4\",\"CN_A1B1\",\"CN_A2B2\",\"CN_A3B3\",\"CN_A4B4\",\"CN_ABC\",\"CN_ABCDEF\",\"CN_CPM\",\"CN_FPT1211\",\"CN_IAM\",\"CN_SRID_INDIA_9989\",\"CN_SRID_INFRA\",\"CN_SRID_IOP\",\"CN_TEST112\",\"CN_TEST123\",\"CN_TEST1234\",\"CN_TEST12342\",\"CN_TEST_COMPONENT\",\"COMP01\",\"COMPONENT1\",\"COMPONENT112\",\"COMPONENT3\",\"COMPONENTT\",\"D\",\"DAHHSDF\",\"DBAS\",\"DEMO3\",\"DEMO5\",\"DEMO6\",\"DEMO7\",\"DEMO8\",\"DEMO_COMP\",\"DEVOPS\",\"DEVOPS_TEST\",\"DEVOPS_TEST_NEW_MODEL\",\"DPAM\",\"D_T\",\"FPT\",\"FPT13112\",\"FPT3010\",\"FPT30102\",\"FPT3011\",\"FPT_432535534\",\"FPT_8888\",\"FPT_8889\",\"FPT_NEW_COMPONENT_15\",\"FPT_NEWCOMPONENT_16\",\"FPT_TEST\",\"FPT_TEST0001\",\"FPT_TEST0002\",\"FPT_TEST_01\",\"FPT_TEST_02\",\"FPT_TEST10\",\"FPT_TEST11\",\"FPT_TEST123321\",\"FPT_TEST1234\",\"FPT_TEST_124424\",\"FPT_TEST2\",\"FPT_TEST2343444\",\"FPT_TEST_23748932\",\"FPT_TEST_4242_1\",\"FPT_TEST_4242_2\",\"FPT_TEST_4242_3\",\"FPT_TEST_4242_5\",\"FPT_TEST_4242_USERROLE\",\"FPT_TEST567\",\"FPT_TEST_56784\",\"FPT_TEST_COMP_01\",\"FPT_TEST_COMP1\",\"FPT_TEST_COMP342423\",\"FPT_TEST_COMP_4242_11\",\"FPT_TEST_COMP_4242_12\",\"FPT_TEST_NEWCOMP2353\",\"FPT_TEST_NEWCOMP3232\",\"HAPPY_PLUS\",\"HCM_TEST\",\"HELLO\",\"HELLO1\",\"IAM\",\"INFRAMANAGEMENT\",\"INFRAOPS\",\"INFRA_TEST\",\"KEYTEST_D\",\"LIFECYCLE_TEST\",\"LIFECYCLE_TEST_123\",\"NOTICE\",\"OPSPORTAL\",\"OPSPORTAL_DEMO\",\"OPSPORTAL_FPTTEST\",\"OPSPORTAL_FPTTEST2\",\"OPSPORTAL_FPTTEST3\",\"OPSPORTAL_FPTTEST4\",\"OPSPORTAL_FPTTEST5\",\"OPSPORTAL_FPTTEST6\",\"OPSPORTAL_FPTTEST7\",\"OPSPORTAL_INDIA\",\"OPSPORTAL_SRID\",\"OPSPORTAL_TEST\",\"OPSPORTAL_TEST_1\",\"OPSPORTAL_TEST2\",\"OPS_TEST\",\"OPS_TEST1\",\"OPSTESTT\",\"OSB\",\"OTN\",\"PR_COMPONENT1\",\"QA\",\"QA_SRID_1\",\"QATESTCOMPONENT\",\"RMS\",\"RMS_OPSP_SYNC_TEST1\",\"RMS_OPSP_SYNC_TEST12\",\"RMS_OPSP_SYNC_TEST2\",\"RMS_OPSP_SYNC_TEST3\",\"RMS_OPSP_SYNC_TEST4\",\"RMS_OPSP_SYNC_TEST5\",\"RMS_OPSP_SYNC_TEST6\",\"RMS_OPSP_SYNC_TEST7\",\"RMS_OPSP_SYNC_TEST8\",\"SAPPHIRE\",\"SDFKJJF\",\"SDFLSADKFLSLAKSLAKVLSJAVLKASLFKJSALDFKJASJKLLKJDLG\",\"SERVICE_RELEASE_TEST\",\"SOH\",\"SRID_DELHI_111\",\"SRID_DELHI_12\",\"SRID_DELHI_16789\",\"SRID_DELHI_1888\",\"SRID_INDIA_1\",\"SRID_INDIA_10\",\"SRID_INDIA_11\",\"SRID_INDIA_2\",\"SRID_INDIA_23\",\"SRID_INDIA_25\",\"SRID_INDIA_3\",\"SRID_INDIA_4\",\"SRID_INDIA_5\",\"SRID_INDIA_6\",\"SRID_INDIA_7\",\"SRID_INDIA8\",\"SRID_INDIA_8\",\"SRID_INDIA_9\",\"SRID_QA\",\"SRID_QA_DUPLICATE\",\"SRID_TV_PLUS\",\"SSDFSDFSFSFSDFSFASFDSAFKNSSDFSDFSFSFSDFSFASFDSAFK1\",\"SSDFSDFSFSFSDFSFASFDSAFKNSSDFSDFSFSFSDFSFASFDSAFKN\",\"SYNCER_DUMMY\",\"SYNCER_ENV_UPGRADE_TEST\",\"SYNCER_LAMBDA_TEST\",\"SYNCER_PYTHON_UPGRADE_TEST\",\"SYNCER_REN\",\"SYNCER_TEST\",\"SYNCER_TEST_OLD\",\"SYNCER_TEST_REN_CATALOG\",\"SYNC_TEST\",\"T9E9S9T9991\",\"TATATATATATA\",\"TEMP_TEST\",\"TESSTRMS2\",\"TEST\",\"TEST002TEST002TEST002\",\"TEST01\",\"TEST02\",\"TEST1\",\"TEST100\",\"TEST1111\",\"TEST1133\",\"TEST12\",\"TEST123\",\"TEST_12345\",\"TEST19\",\"TEST21\",\"TEST2111\",\"TEST23\",\"TEST2345\",\"TEST_246\",\"TEST_25\",\"TEST_26_01\",\"TEST264\",\"TEST27\",\"TEST29\",\"TEST_29\",\"TEST31\",\"TEST_4\",\"TEST_47\",\"TEST_49\",\"TEST5\",\"TEST51\",\"TEST61\",\"TEST67\",\"TEST71\",\"TEST72\",\"TEST_786\",\"TEST81\",\"TEST811\",\"TEST82\",\"TEST83\",\"TEST84\",\"TEST85\",\"TEST91\",\"TEST98\",\"TEST999\",\"TEST_ABC\",\"TEST_ABC_123\",\"TEST_ABCDDD\",\"TEST_ABCDE\",\"TESTATTRIBUTE_NOTASSOCIATED\",\"TEST_BIP\",\"TEST_BIP1\",\"TEST_BIP3\",\"TEST_BK1\",\"TEST_BK2\",\"TEST_BK3\",\"TEST_BK4\",\"TEST_BK6\",\"TESTCC\",\"TEST_CMP_01\",\"TEST_COM\",\"TEST_COMP_01\",\"TEST_COMP123\",\"TEST_COMP23\",\"TESTCOMPO\",\"TESTCOMPONENT\",\"TEST_COMPONENT\",\"TESTCOMPONENT_OPS1\",\"TEST_DEMO\",\"TEST_DEVICE_NOT_RELATED\",\"TEST_FPT_1243\",\"TESTING\",\"TEST_NEW\",\"TEST_NEW_COMP_\",\"TEST_NEW_COMP_1\",\"TEST_NEW_COMP_2\",\"TEST_NEW_COMP_3\",\"TEST_NEW_COMP_39\",\"TEST_NEW_COMP_3_DUPLICATE_1\",\"TEST_NEW_COMP_3_DUPLICATE_2\",\"TEST_NEW_COMP_4\",\"TEST_NEW_COMP_5\",\"TEST_NEW_COMP_6\",\"TEST_NEW_COMP_7\",\"TEST_NEW_COMP723483249\",\"TEST_NEW_COMPONENT\",\"TEST_NEWPERMISSIONS_RMS\",\"TEST_PP\",\"TEST_RBAC\",\"TESTRECOMMEND\",\"TESTRMS\",\"TEST_RMS\",\"TESTRMS1\",\"TEST_RMS1\",\"TEST_RMS2\",\"TESTRMS3\",\"TEST_RMS3\",\"TESTRMS4\",\"TEST_RMS4\",\"TESTRMS5\",\"TESTRMS6\",\"TESTRMS_OPSSYNC1\",\"TEST_SERVICE\",\"TESTSRI\",\"TESTSRID\",\"TEST_SRID\",\"TESTSRID123\",\"TEST_SRID_22\",\"TEST_SRID_23\",\"TESTTSTET\",\"TEST_USER\",\"TESTUX\",\"TETESTST1\",\"TOKEN_TEST_123\",\"T_T\",\"TTT\",\"TTTTTSSDFSDFSFSFSQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ\",\"TTTTTTTTTT\",\"TVPLUSSSSSSS\",\"TVPLUSTEST\",\"UCA\",\"UCA2_CHANGE\",\"UCA3\",\"UCA5\",\"UCA_DEV_TEST\",\"UCA_ISB_TEST_7\",\"UCA_TEST1\",\"UCA_TEST2\",\"UCA_TEST3\",\"UCA_TEST_DEV_\",\"YASHWANTH_TEST\"]\"\r\n  \"isAdmin\": \"true\"\r\n  \"isResolver\": \"true\"\r\n  \"name\": \"Navodit Bharat\"\r\n  \"phoneNumber\": \"+919057071210\"\r\n  \"notiConfig\": \"\"\r\n  \"token\": \"\"\r\n}",
+        "_url": "https://almansydevapi.samsungcloud.tv/api/v1/users/vdmon/signin",
+        "_timedOut": false,
+        "_trackingName": "unknown",
+        "_incrementalEvents": false,
+        "_performanceLogger": {
+            "_timespans": {
+                "network_XMLHttpRequest_https://almansydevapi.samsungcloud.tv/api/v1/users/vdmon/otp": {
+                    "startTime": 1228813.5016,
+                    "endTime": 1257150.8035,
+                    "totalTime": 28337.301899999846
+                },
+                "network_XMLHttpRequest_https://almansydevapi.samsungcloud.tv/api/v1/users/vdmon/pushtoken": {
+                    "startTime": 1290574.0895,
+                    "endTime": 1290902.7927,
+                    "totalTime": 328.7032000001054
+                },
+                "network_XMLHttpRequest_https://almansydevapi.samsungcloud.tv/api/v1/users/vdmon/signin": {
+                    "startTime": 1290909.7669,
+                    "endTime": 1292645.994,
+                    "totalTime": 1736.2271000000183
+                }
+            },
+            "_extras": {},
+            "_points": {
+                "initializeCore_start": 1201412.5483,
+                "initializeCore_end": 1202379.7954
+            },
+            "_pointExtras": {},
+            "_closed": false
+        },
+        "responseHeaders": {
+            "set-cookie": "connect.sid=s%dgfgfgfgfgsdfdfdfdfdf; Path=/; Expires=Fri, 07 Mar 2025 06:46:48 GMT; HttpOnly; Secure",
+            "access-control-expose-headers": "almansy-token",
+            "access-control-allow-headers": "Content-Type,X-Amz-Date,Authorization,X-Api-Key,X-Amz-Security-Token,access-control-allow-origin,almansy-token",
+            "content-type": "application/json",
+            "access-control-allow-methods": "DELETE,GET,HEAD,OPTIONS,PATCH,POST,PUT",
+            "x-amz-apigw-id": "G_ex5Fm4oAMEaaA=",
+            "access-control-allow-origin": "*",
+            "x-amzn-trace-id": "Root=1-67c944d8-5b28246e69bdb4f8732f4eaa",
+            "almansy-token": "connect.sid=s%dfgfgfgfggffggf; Path=/; Expires=Fri, 07 Mar 2025 06:46:48 GMT; HttpOnly; Secure",
+            "date": "Thu, 06 Mar 2025 06:46:48 GMT",
+            "x-amzn-requestid": "b53212ea-9300-431b-9293-c5732e7ddae5",
+            "content-length": "4877"
+        },
+        "_requestId": null,
+        "_headers": {
+            "accept": "application/json",
+            "content-type": "application/json",
+            "x-api-key": "gfgfggfgfggfgfgfgfg",
+            "access-control-allow-origin": "true"
+        },
+        "_responseType": "",
+        "_sent": true,
+        "_lowerCaseResponseHeaders": {
+            "set-cookie": "connect.sid=s%gfgfgfgfgfggf; Path=/; Expires=Fri, 07 Mar 2025 06:46:48 GMT; HttpOnly; Secure",
+            "access-control-expose-headers": "almansy-token",
+            "access-control-allow-headers": "Content-Type,X-Amz-Date,Authorization,X-Api-Key,X-Amz-Security-Token,access-control-allow-origin,almansy-token",
+            "content-type": "application/json",
+            "access-control-allow-methods": "DELETE,GET,HEAD,OPTIONS,PATCH,POST,PUT",
+            "x-amz-apigw-id": "G_ex5Fm4oAMEaaA=",
+            "access-control-allow-origin": "*",
+            "x-amzn-trace-id": "Root=1-67c944d8-5b28246e69bdb4f8732f4eaa",
+            "almansy-token": "connect.sid=s%cvfgfgfgfgfgfggfgfgfg; Path=/; Expires=Fri, 07 Mar 2025 06:46:48 GMT; HttpOnly; Secure",
+            "date": "Thu, 06 Mar 2025 06:46:48 GMT",
+            "x-amzn-requestid": "b53212ea-9300-431b-9293-c5732e7ddae5",
+            "content-length": "4877"
+        },
+        "_subscriptions": [],
+        "responseURL": "https://almansydevapi.samsungcloud.tv/api/v1/users/vdmon/signin"
+    }
+}
