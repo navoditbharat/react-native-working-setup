@@ -1,0 +1,65 @@
+ almansylite@0.0.1 build:release
+> cd android && gradlew clean && gradlew assembleRelease
+
+
+> Task :app:externalNativeBuildCleanDebug
+Clean react_codegen_safeareacontext-armeabi-v7a, react_codegen_rngesturehandler_codegen-armeabi-v7a, react_codegen_rnscreens-armeabi-v7a, react_codegen_RNDateTimePickerCGen-armeabi-v7a, appmodules-armeabi-v7a, react_codegen_rnasyncstorage-armeabi-v7a, react_codegen_rnpicker-armeabi-v7a
+C/C++: CMake Error in CMakeLists.txt:
+C/C++:   Imported target "fbjni::fbjni" includes non-existent path
+C/C++:     "C:/Users/navodit.b/.gradle/caches/8.10.2/transforms/8b60b4f75564ac53567672df7a1c9a73/transformed/fbjni-0.6.0/prefab/modules/fbjni/include"
+C/C++:   in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+C/C++:   * The path was deleted, renamed, or moved to another location.
+C/C++:   * An install or uninstall procedure did not complete successfully.
+C/C++:   * The installation package was faulty and references files it does not
+C/C++:   provide.
+C/C++: CMake Generate step failed.  Build files cannot be regenerated correctly.
+C/C++: ninja: error: rebuilding 'build.ninja': subcommand failed                                                                                 
+
+> Task :app:externalNativeBuildCleanDebug FAILED
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':app:externalNativeBuildCleanDebug'.
+> com.android.ide.common.process.ProcessException: ninja: Entering directory `C:\almansy-lite\android\app\.cxx\Debug\4y3fu4s4\armeabi-v7a'       
+  [0/2] Re-checking globbed directories...
+  [1/2] Re-running CMake...
+  -- Configuring done
+  -- Generating done
+  FAILED: build.ninja
+  C:\Users\navodit.b\AppData\Local\Android\Sdk\cmake\3.22.1\bin\cmake.exe --regenerate-during-build -SC:\almansy-lite\node_modules\react-native\ReactAndroid\cmake-utils\default-app-setup -BC:\almansy-lite\android\app\.cxx\Debug\4y3fu4s4\armeabi-v7a
+
+  C++ build system [clean] failed while executing:
+      @echo off
+      "C:\\Users\\navodit.b\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe" ^
+        -C ^
+        "C:\\almansy-lite\\android\\app\\.cxx\\Debug\\4y3fu4s4\\armeabi-v7a" ^
+        clean
+    from C:\almansy-lite\android\app
+  CMake Error in CMakeLists.txt:
+    Imported target "fbjni::fbjni" includes non-existent path
+
+      "C:/Users/navodit.b/.gradle/caches/8.10.2/transforms/8b60b4f75564ac53567672df7a1c9a73/transformed/fbjni-0.6.0/prefab/modules/fbjni/include"
+
+    in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+
+    * The path was deleted, renamed, or moved to another location.
+
+    * An install or uninstall procedure did not complete successfully.
+
+    * The installation package was faulty and references files it does not
+    provide.
+
+
+
+  CMake Generate step failed.  Build files cannot be regenerated correctly.
+  ninja: error: rebuilding 'build.ninja': subcommand failed
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+
+BUILD FAILED in 14s
+14 actionable tasks: 4 executed, 10 up-to-date
